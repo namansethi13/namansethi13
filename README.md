@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React.js** - 💬 Ask me about **Web development , Django and
+- 🌱 I'm currently learning **React.js** - 💬 Ask me about **Web development , Django and
 react** - 📫 How to reach me **heynamansethi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -45,11 +45,10 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
       height="30"
       width="40"
       /></a>
-    </p>
-    
+    </p>    
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/django.svg"
           alt="django"
@@ -57,7 +56,6 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
           height="40"
         />
       </a>
-
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -66,7 +64,6 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
           height="40"
         />
       </a>
-
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -75,7 +72,6 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
           height="40"
         />
       </a>
-
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
@@ -84,7 +80,6 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
           height="40"
         />
       </a>
-
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -93,7 +88,6 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
           height="40"
         />
       </a>
-
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -109,8 +103,7 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
       width="40"
       height="40"
     />
-  </a>
-  
+  </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.chartjs.org/media/logo-title.svg"
@@ -119,7 +112,6 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
       height="40"
     />
   </a>
- 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -247,4 +239,3 @@ react** - 📫 How to reach me **heynamansethi@yahoo.com**
     alt="namansethi13"
   />
 </p>
-
