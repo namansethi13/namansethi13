@@ -20,7 +20,7 @@
 React.js** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color: #F2F5FF">
   
   <a href="https://linkedin.com/in/naman-sethi-295427204" target="blank"
     ><img
