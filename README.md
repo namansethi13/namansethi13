@@ -16,8 +16,8 @@
   /></a>
 </p>
 
-- 🌱 I'm currently learning **React.js** - 💬 Ask me about **Web development , Django and
-react** - 📫 How to reach me **heynamansethi@yahoo.com**
+- 🌱 I'm currently learning **React.js** <br>- 💬 Ask me about **Web development , Django and
+react** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
