@@ -59,7 +59,7 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png"
           alt="react"
           width="40"
           height="40"
