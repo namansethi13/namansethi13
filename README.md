@@ -17,7 +17,7 @@
 </p>
 
 <br>- 🌱 I'm currently learning **React.js** <br>- 💬 Ask me about **Web development , Django and
-React.js** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
+Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color: #F2F5FF">
