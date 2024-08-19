@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-<br>- 🌱 I'm currently learning **React.js** <br>- 💬 Ask me about **Web development , Django and
+<br>- 🌱 I'm currently learning **Rust** <br>- 💬 Ask me about **Web development , Django and
 Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
