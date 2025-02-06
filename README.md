@@ -233,10 +233,3 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=namansethi13&"
-    alt="namansethi13"
-  />
-</p>
