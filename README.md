@@ -75,7 +75,7 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
       </a>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png"
+          src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png"
           alt="flask"
           width="40"
           height="40"
