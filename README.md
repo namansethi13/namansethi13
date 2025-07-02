@@ -90,7 +90,6 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
       />
     </a>
 
-<!-- LangGraph -->
 <a href="https://www.langgraph.dev" target="_blank" rel="noreferrer">
  <img
     src="https://cdn.simpleicons.org/langgraph"
