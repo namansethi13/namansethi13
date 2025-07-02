@@ -82,13 +82,13 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
         />
       </a>
       <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png"
-    alt="langchain"
-    width="40"
-    height="40"
-  />
-</a>
+      <img
+        src="https://cdn.simpleicons.org/langchain"
+        alt="langchain"
+        width="40"
+        height="40"
+      />
+    </a>
 
 <!-- LangGraph -->
 <a href="https://www.langgraph.dev" target="_blank" rel="noreferrer">
