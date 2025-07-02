@@ -83,7 +83,7 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
       </a>
       <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
   <img
-    src="https://avatars.githubusercontent.com/u/139914922?s=200&v=4"
+    src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png"
     alt="langchain"
     width="40"
     height="40"
@@ -93,7 +93,7 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 <!-- LangGraph -->
 <a href="https://www.langgraph.dev" target="_blank" rel="noreferrer">
   <img
-    src="https://avatars.githubusercontent.com/u/168899418?s=200&v=4"
+    src="https://images.seeklogo.com/logo-png/61/1/langgraph-logo-png_seeklogo-616429.png"
     alt="langgraph"
     width="40"
     height="40"
@@ -101,7 +101,7 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://avatars.githubusercontent.com/u/51560349?s=200&v=4"
+    src="https://images.seeklogo.com/logo-png/42/1/fastapi-logo-png_seeklogo-425420.png"
     alt="fastapi"
     width="40"
     height="40"
