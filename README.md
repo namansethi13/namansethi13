@@ -81,6 +81,32 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
           height="40"
         />
       </a>
+      <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://avatars.githubusercontent.com/u/139914922?s=200&v=4"
+    alt="langchain"
+    width="40"
+    height="40"
+  />
+</a>
+
+<!-- LangGraph -->
+<a href="https://www.langgraph.dev" target="_blank" rel="noreferrer">
+  <img
+    src="https://avatars.githubusercontent.com/u/168899418?s=200&v=4"
+    alt="langgraph"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://avatars.githubusercontent.com/u/51560349?s=200&v=4"
+    alt="fastapi"
+    width="40"
+    height="40"
+  />
+</a>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
