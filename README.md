@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-<br>- 🌱 I'm currently learning **Ai and Agentic development** <br>- 💬 Ask me about **Web development , LangChain, LangGraph ,Django, DRF and
+<br>- 🌱 I'm currently learning **Ai and Agentic development** <br>- 💬 Ask me about **Web development, LangChain, LangGraph, Django, DRF and
 Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
