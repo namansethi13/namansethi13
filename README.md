@@ -101,7 +101,7 @@ Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://images.seeklogo.com/logo-png/42/1/fastapi-logo-png_seeklogo-425420.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
     alt="fastapi"
     width="40"
     height="40"
