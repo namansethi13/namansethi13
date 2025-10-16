@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Sethi</h1>
-<h3 align="center">Web developer || Agentic AI enthusiast</h3>
+<h3 align="center">Full Stack Developer || Agentic AI enthusiast</h3>
 
 <p align="left">
   <img
