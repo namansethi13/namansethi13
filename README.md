@@ -17,7 +17,7 @@
 </p>
 
 <br>- 🌱 I'm currently learning **Ai and Agentic development** <br>- 💬 Ask me about **Web development, LangChain, LangGraph, Django, DRF and
-Sveltekit** <br>- 📫 How to reach me **heynamansethi@yahoo.com**
+Sveltekit** <br>- 📫 How to reach me **namansethi1328@gmail.com**, **heynamansethi@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color: #F2F5FF">
